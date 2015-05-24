@@ -1,6 +1,6 @@
 puppet-recursive_directory
 ==========================
-
+TEST
 Puppet module to allow for files to be created recursively from a folder of templates
 
 The benefit here is that you no longer need to define file resources for each and every template file
